@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647527938 source:d:\c\metodoinsercsion\main.c
+	"header.h"
+
+1647527850 d:\c\metodoinsercsion\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1647527959 source:d:\c\metodoinsercsion\funciones.c
+	"header.h"
+
